@@ -1,0 +1,15 @@
+{
+  "name": "picxcart_server",
+  "version": "1.0.0",
+  "description": "Server for Unified Platform for footage website",
+  "license": "ISC",
+  "author": "Akshay Malik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
